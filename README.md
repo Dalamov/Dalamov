@@ -28,5 +28,3 @@ My main programming languages/platforms are: Javascript, Node.js, PHP, React.
 </p>
  
 </br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bbenalia&show_icons=true&locale=en&layout=compact" alt="bbenalia" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=bbenalia&show_icons=true&locale=en" alt="bbenalia" /></p>
-
