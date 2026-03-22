@@ -3,7 +3,7 @@ I'm passionate about software technologies, open-source community and startups.
 My main programming languages/platforms are: Javascript, Node.js, PHP, React.
 Find me 🌐
 
-💼 Linkedin
+💼 [Linkedin](https://www.linkedin.com/in/daniella-álamo-0085b119a/)
 
 <h3 align="left">Languages and Technologies:</h3>
 <p align="left">
