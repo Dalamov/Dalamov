@@ -25,5 +25,6 @@ Find me 🌐
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-plain.svg" width="40" title="Webpack" alt="Webpack"/>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" alt="Docker" title="Docker"/>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" alt="Next.js" title="Next.js"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cursor/cursor-original.svg" width="40" alt="Cursor" title="Cursor"/>
 </p>
 </br>
